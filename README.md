@@ -4,7 +4,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Project Overview
-
+![Image Description](https://github.com/Masniper/freelancer-web-bot/blob/main/Freelancer-web-bot.png?raw=true)
 Freelancer Web Bot is an application designed to help users track and manage projects listed on Freelancer.com. The bot fetches active projects, categorizes them by job type, and provides tools to filter and view project details.
 
 ## Features
